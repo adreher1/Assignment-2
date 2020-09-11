@@ -1,0 +1,24 @@
+======== RESTART: /Users/avadreher/Downloads/assignment_template (1).py ========
+This program will compute the total price of a purchased item
+including sales and county tax.
+Enter the price of the item: $2
+Enter the number of items purchased:4
+The subtotal is $8.0
+The total is $8.15
+>>> 
+======== RESTART: /Users/avadreher/Downloads/assignment_template (1).py ========
+This program will compute the total price of a purchased item
+including sales and county tax.
+Enter the price of the item: $2
+Enter the number of items purchased:2
+The subtotal is $4.0
+The total is $4.15
+>>> 
+======== RESTART: /Users/avadreher/Downloads/assignment_template (1).py ========
+This program will compute the total price of a purchased item
+including sales and county tax.
+Enter the price of the item: $4
+Enter the number of items purchased:8
+The subtotal is $32.0
+The total is $32.3
+>>> 

@@ -2,7 +2,7 @@
 Name Ava Dreher
 email adreher1@binghamton.edu
 Lab Section and CA Name B57 Owen and Jennifer
-Assignment #2
+Lab #
 '''
 
 ## Do not write anything past column 78
